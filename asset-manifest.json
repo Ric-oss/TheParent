@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/TheParent/static/css/main.c7e89400.chunk.css",
+    "main.js": "/TheParent/static/js/main.236f7bfd.chunk.js",
+    "main.js.map": "/TheParent/static/js/main.236f7bfd.chunk.js.map",
+    "runtime-main.js": "/TheParent/static/js/runtime-main.a216975d.js",
+    "runtime-main.js.map": "/TheParent/static/js/runtime-main.a216975d.js.map",
+    "static/js/2.e965f0cf.chunk.js": "/TheParent/static/js/2.e965f0cf.chunk.js",
+    "static/js/2.e965f0cf.chunk.js.map": "/TheParent/static/js/2.e965f0cf.chunk.js.map",
+    "static/js/3.f63f565f.chunk.js": "/TheParent/static/js/3.f63f565f.chunk.js",
+    "static/js/3.f63f565f.chunk.js.map": "/TheParent/static/js/3.f63f565f.chunk.js.map",
+    "index.html": "/TheParent/index.html",
+    "static/css/main.c7e89400.chunk.css.map": "/TheParent/static/css/main.c7e89400.chunk.css.map",
+    "static/js/2.e965f0cf.chunk.js.LICENSE.txt": "/TheParent/static/js/2.e965f0cf.chunk.js.LICENSE.txt",
+    "static/media/Section5.css": "/TheParent/static/media/advimg.cec350d7.jpg",
+    "static/media/section1.css": "/TheParent/static/media/header.3f0387c6.jpg",
+    "static/media/slider1.5e01770c.jpg": "/TheParent/static/media/slider1.5e01770c.jpg",
+    "static/media/slider2.6e408029.jpg": "/TheParent/static/media/slider2.6e408029.jpg",
+    "static/media/slider3.257ac731.jpg": "/TheParent/static/media/slider3.257ac731.jpg",
+    "static/media/slider4.21f145dc.jpg": "/TheParent/static/media/slider4.21f145dc.jpg",
+    "static/media/slider5.9740b33f.jpg": "/TheParent/static/media/slider5.9740b33f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a216975d.js",
+    "static/js/2.e965f0cf.chunk.js",
+    "static/css/main.c7e89400.chunk.css",
+    "static/js/main.236f7bfd.chunk.js"
+  ]
+}
