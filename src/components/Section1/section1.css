@@ -21,6 +21,9 @@ body{
   
   .header__part{
     display: flex;
+    align-items: center;
+    gap:1rem;
+    margin-left: 4rem;
   }
   
 .section1{

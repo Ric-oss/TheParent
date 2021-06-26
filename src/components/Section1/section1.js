@@ -14,7 +14,6 @@ function Section1(){
 
   return(
       <div className="section1">
-        <div className="container">
         <div className="header__part">
           <div>
         <img src={Subtract} className="Img"/>
@@ -36,7 +35,6 @@ function Section1(){
            </div>
            {welcome?<Welcome setPopup={setPopup} setWelcome={setWelcome}/>:""}
             {popup?<Popup setPopup={setPopup} setWelcome={setWelcome} />:""}
-            </div>
       </div>
   )
 
