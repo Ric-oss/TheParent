@@ -18,7 +18,7 @@ function Popup(props) {
            return  ChangeError("Name should be greater than 3")
         }
 
-        if(emailadd.includes("@")==false){
+        if(emailadd.includes("@")===false){
             return ChangeError("Invalid email")
         }
         if(password.length<6 || password.length>15){
