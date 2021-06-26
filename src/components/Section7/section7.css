@@ -1,0 +1,40 @@
+.footer{
+    font-size: 1.6rem;
+    padding: 3rem 0;
+    background: #F7ECFF;
+    height: 375px;
+  }
+  .footer__icon{
+    margin-top: 0;
+    font-weight: 500;
+    font-size: 1.5rem;
+    letter-spacing: 3px;
+    line-height: 130%;
+    text-transform: uppercase;
+  }
+  .footerrow{
+    gap: 8rem;
+    display: flex;
+  }
+  
+  .icon__footer{
+    gap: 1rem;
+    display: flex;
+  }
+  
+  footer ul{
+    list-style: none;
+  }
+  footer li{
+    padding: 0;
+    margin-bottom: 2rem;
+  }
+  
+  .socialmedia{
+    gap: 1rem;
+  }
+  .img__wrapper{
+    width: 38px;
+    height: 38px;
+  }
+  
